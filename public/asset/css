@@ -1,0 +1,5 @@
+.card-img-top {
+    height: 200px; /* Set a fixed height */
+    object-fit: cover; /* Ensures images fill the space without distortion */
+    border-radius: 15px 15px 0 0; /* Rounded corners at the top */
+}
